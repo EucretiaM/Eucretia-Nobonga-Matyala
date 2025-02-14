@@ -13,4 +13,8 @@ This is a simple command-line Rock-Paper-Scissors game written in Python. The us
 ## Dependencies
 No external dependencies are required. Only Python's built-in `random` module is used.
 
+## Screenshot
+![Calculator Screenshot](C:\Users\214323285\Documents\Eucretia Nobonga Matyala\Game in Action.PNG)
+
+
 Enjoy playing!
